@@ -1,0 +1,14 @@
+M:\DOTNET\BizBuildingServices\BizBuildingServices.Data\bin\Debug\BizBuildingServices.Data.dll
+M:\DOTNET\BizBuildingServices\BizBuildingServices.Data\bin\Debug\BizBuildingServices.Data.pdb
+M:\DOTNET\BizBuildingServices\BizBuildingServices.Data\bin\Debug\Npgsql.dll
+M:\DOTNET\BizBuildingServices\BizBuildingServices.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+M:\DOTNET\BizBuildingServices\BizBuildingServices.Data\bin\Debug\System.Threading.Tasks.Extensions.dll
+M:\DOTNET\BizBuildingServices\BizBuildingServices.Data\bin\Debug\System.ValueTuple.dll
+M:\DOTNET\BizBuildingServices\BizBuildingServices.Data\bin\Debug\Npgsql.pdb
+M:\DOTNET\BizBuildingServices\BizBuildingServices.Data\bin\Debug\Npgsql.xml
+M:\DOTNET\BizBuildingServices\BizBuildingServices.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+M:\DOTNET\BizBuildingServices\BizBuildingServices.Data\bin\Debug\System.Threading.Tasks.Extensions.xml
+M:\DOTNET\BizBuildingServices\BizBuildingServices.Data\bin\Debug\System.ValueTuple.xml
+M:\DOTNET\BizBuildingServices\BizBuildingServices.Data\obj\Debug\BizBuildingServices.Data.dll
+M:\DOTNET\BizBuildingServices\BizBuildingServices.Data\obj\Debug\BizBuildingServices.Data.pdb
+M:\DOTNET\BizBuildingServices\BizBuildingServices.Data\obj\Debug\BizBuildingServices.Data.csprojResolveAssemblyReference.cache
