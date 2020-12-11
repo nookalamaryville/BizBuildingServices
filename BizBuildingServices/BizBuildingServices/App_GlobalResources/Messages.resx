@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="EmailAddressExists" xml:space="preserve">
-    <value>Sorry, you have already registered with '{0}'.</value>
+    <value>Sorry, '{0}' is already exists. Please try with different email address.</value>
   </data>
   <data name="InvalidData" xml:space="preserve">
     <value>Sorry, invalid data.</value>
   </data>
   <data name="InvalidSignIn" xml:space="preserve">
-    <value>Email Adress or password are invalid.</value>
+    <value>Email address or password is invalid.</value>
   </data>
   <data name="LogFailed" xml:space="preserve">
     <value>Failed to submit your complaint, please visit after some time.</value>

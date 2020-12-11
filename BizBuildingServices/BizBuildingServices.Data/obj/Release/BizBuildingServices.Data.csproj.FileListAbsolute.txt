@@ -1,0 +1,14 @@
+M:\Mayville\BizBuildingServices\BizBuildingServices\BizBuildingServices.Data\bin\Release\BizBuildingServices.Data.dll
+M:\Mayville\BizBuildingServices\BizBuildingServices\BizBuildingServices.Data\bin\Release\BizBuildingServices.Data.pdb
+M:\Mayville\BizBuildingServices\BizBuildingServices\BizBuildingServices.Data\bin\Release\Npgsql.dll
+M:\Mayville\BizBuildingServices\BizBuildingServices\BizBuildingServices.Data\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+M:\Mayville\BizBuildingServices\BizBuildingServices\BizBuildingServices.Data\bin\Release\System.Threading.Tasks.Extensions.dll
+M:\Mayville\BizBuildingServices\BizBuildingServices\BizBuildingServices.Data\bin\Release\System.ValueTuple.dll
+M:\Mayville\BizBuildingServices\BizBuildingServices\BizBuildingServices.Data\bin\Release\Npgsql.pdb
+M:\Mayville\BizBuildingServices\BizBuildingServices\BizBuildingServices.Data\bin\Release\Npgsql.xml
+M:\Mayville\BizBuildingServices\BizBuildingServices\BizBuildingServices.Data\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+M:\Mayville\BizBuildingServices\BizBuildingServices\BizBuildingServices.Data\bin\Release\System.Threading.Tasks.Extensions.xml
+M:\Mayville\BizBuildingServices\BizBuildingServices\BizBuildingServices.Data\bin\Release\System.ValueTuple.xml
+M:\Mayville\BizBuildingServices\BizBuildingServices\BizBuildingServices.Data\obj\Release\BizBuildingServices.Data.csprojResolveAssemblyReference.cache
+M:\Mayville\BizBuildingServices\BizBuildingServices\BizBuildingServices.Data\obj\Release\BizBuildingServices.Data.dll
+M:\Mayville\BizBuildingServices\BizBuildingServices\BizBuildingServices.Data\obj\Release\BizBuildingServices.Data.pdb

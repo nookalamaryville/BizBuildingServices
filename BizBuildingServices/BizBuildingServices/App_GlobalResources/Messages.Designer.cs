@@ -61,7 +61,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Sorry, you have already registered with &apos;{0}&apos;..
+        ///   Looks up a localized string similar to Sorry, &apos;{0}&apos; is already exists. Please try with different email address..
         /// </summary>
         internal static string EmailAddressExists {
             get {
@@ -79,7 +79,7 @@ namespace Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Email Adress or password are invalid..
+        ///   Looks up a localized string similar to Email address or password is invalid..
         /// </summary>
         internal static string InvalidSignIn {
             get {
